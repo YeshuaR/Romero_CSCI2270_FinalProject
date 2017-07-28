@@ -1,5 +1,8 @@
 # Romero_CSCI2270_FinalProject
+<<<<<<< HEAD
 Project Summary
+=======
+>>>>>>> e8a829182b4c34c7415bd7a9d8dc2fe239a17161
 A maze with different attributes that makes it difficult to escape. By creating
 a binary tree, the user would be able to traverse throughout the maze,
 uncover hidden passage ways with a random event happening ever so often.
@@ -8,6 +11,7 @@ also, the user would be able to leave bread crumbs behind or rope
 as to show where they have been. This maze will be not two dimensional,
 but three, maybe four as a random event for fun. 
 
+<<<<<<< HEAD
 How to Run
 First, download these 
 
@@ -39,3 +43,5 @@ Open issues/bugs
 Issue with it can become quite stale real quick and a pain.
 Needs more AI interaction to make it better.
 Speed needs to be put into something https://github.com/YeshuaR/Romero_CSCI2270_FinalProject.gitmore useful than showy.
+=======
+>>>>>>> e8a829182b4c34c7415bd7a9d8dc2fe239a17161
