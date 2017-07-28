@@ -20,6 +20,8 @@ Type in
 g++ -std=c++11 main.cpp Actions.cpp -o Final
 ./Final 
 
+There can be no driver files as this is all user based interface, to do so would be quite messy
+and not worth the time - better to just play around the program since most of the things are randomly created.
 
 Dependencies
 string library
